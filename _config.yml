@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Стоматология в Чебоксарах
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://volga-dent.tk" # the base hostname & protocol for your site
+permalink: pretty
 
 # Build settings
-exclude: [".hyde.el"]
+exclude: [".hyde.el", "CNAME", "README.md"]
