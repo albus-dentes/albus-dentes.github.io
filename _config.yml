@@ -1,0 +1,10 @@
+# Site settings
+title: Волга-Дент
+email: volga_dent@mail.ru
+description: > # this means to ignore newlines until "baseurl:"
+  Стоматология в Чебоксарах
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://volga-dent.tk" # the base hostname & protocol for your site
+
+# Build settings
+exclude: [".hyde.el"]
