@@ -7,10 +7,10 @@ Following files, directories and their contents are copyright albus-dentes. You 
 
 * _posts/
 * images/
-* licenses/
+* assets/
 * services/
 * tips/
 * prices/
 * personnel/
 
-All other files and directories are licensed under the [MIT](http://www.opensource.org/licenses/mit-license.php) unless explicitly stated. 
+All other files and directories are licensed under the [MIT](http://www.opensource.org/licenses/mit-license.php) unless explicitly stated.
