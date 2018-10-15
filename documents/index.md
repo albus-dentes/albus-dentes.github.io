@@ -19,3 +19,9 @@ title: Документы
 [Правила внутреннего распорядка](/assets/prav.doc)
 
 [О порядке и условиях предоставления медицинской помощи в соответствии с программой государственных гарантий бесплатного оказания медицинской помощи](/assets/free.doc)
+
+[Права и обязанности граждан в сфере охраны здоровья](/assets/prava-i-obyazannosti-grazhdan-v-sfere-oxrany-zdorovya.doc)
+
+[Правила поведения пациентов Волга-Дент](/assets/pravila-povedeniya-pacientov.doc)
+
+[Сведения для пациентов](/assets/svedeniya-dlya-pacientov.doc)
