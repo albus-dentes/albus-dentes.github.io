@@ -194,3 +194,8 @@ th, td {
 tbody {
     border-top: 2px solid $grey-color;
 }
+
+td.section-header {
+    font-weight: 700;
+    padding: 1em 0;
+}
