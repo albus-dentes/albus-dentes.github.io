@@ -27,3 +27,5 @@ title: Документы
 [Постановление Правительства РФ от 10 декабря 2018 О программе госгарантий на 2019 год](/assets/free.docx)
 
 [Распоряжение Правительства РФ от 10 декабря 2018 г. N 2738-р Перечни лекарственных препаратов](/assets/perechni-lekarstvennyh-preparatov.doc)
+
+[О возможности получения бесплатной медицинской помощи](/assets/о-vozmozhnosti-polucheniya-besplatnoj-medicinskoj-pomoshhi.doc)
