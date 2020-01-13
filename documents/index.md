@@ -23,5 +23,5 @@ title: Документы
   - [Приложение 5](/assets/programma-gosudarstvennyh-garantij-cr-5.doc)
   - [Приложение 6](/assets/programma-gosudarstvennyh-garantij-cr-6.doc)
 - [Распоряжение Правительства РФ от 10 декабря 2018 г. N 2738-р Перечни лекарственных препаратов](/assets/perechni-lekarstvennyh-preparatov.doc)
--[О возможности получения бесплатной медицинской помощи](/assets/о-vozmozhnosti-polucheniya-besplatnoj-medicinskoj-pomoshhi.docx)
+- [О возможности получения бесплатной медицинской помощи](/assets/о-vozmozhnosti-polucheniya-besplatnoj-medicinskoj-pomoshhi.docx)
 - [Политика в области обработки персональных данных](/assets/pd.docx)
