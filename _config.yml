@@ -4,7 +4,7 @@ email: volga_dent@mail.ru
 description: > # this means to ignore newlines until "baseurl:"
   Стоматология в Чебоксарах
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://volga-dent.tk" # the base hostname & protocol for your site
+url: "https://volgadent21.ru" # the base hostname & protocol for your site
 permalink: pretty
 
 # Build settings
