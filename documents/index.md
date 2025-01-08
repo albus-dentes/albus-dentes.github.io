@@ -24,4 +24,5 @@ title: Документы
 - [Программа государственных гарантий в ЧР на 2023 год](/assets/programma-gosgarantij-chr23.docx)
 - [Распоряжение Правительства РФ от 10 декабря 2018 г. N 2738-р Перечни лекарственных препаратов](/assets/perechni-lekarstvennyh-preparatov.doc)
 - [О возможности получения бесплатной медицинской помощи](/assets/о-vozmozhnosti-polucheniya-besplatnoj-medicinskoj-pomoshhi.odt)
-- [Политика в области обработки персональных данных](/assets/pd.docx)
+- [Политика обработки персональных данных](/assets/pd.odt)
+- [Положение об обработке персональных данных](/assets/pd-p.odt)
