@@ -21,7 +21,7 @@ title: Документы
       - Порядки оказания медицинской помощи, применяемые при оказании медицинских услуг в ООО «Волга- Дент»: порядок оказания медицинской помощи взрослому населению при стоматологических заболеваниях утвержден приказом Министерства здравоохранения Российской Федерации от 31 июля 2020 г. № 786н (с изменениями и дополнениями от 18 февраля 2021 г.).
   - [Правила предоставления медицинскими организациями платных медицинских услуг](/assets/pravila-predostavlenia-platnykh-medicinskikh-uslug.pdf)
 - [Программа государственных гарантий в РФ на 2025 год](http://publication.pravo.gov.ru/document/0001202412290002)
-- [Программа государственных гарантий в ЧР на 2023 год](/assets/programma-gosgarantij-chr23.docx)
+- [Программа государственных гарантий в ЧР на 2025 год](https://medicin.cap.ru/action/obespechenie-deyateljnosti/regionaljnie-programmi/programma-gosudarstvennih-garantij-po-okazaniyu-gr/2023)
 - [Распоряжение Правительства РФ от 10 декабря 2018 г. N 2738-р Перечни лекарственных препаратов](/assets/perechni-lekarstvennyh-preparatov.doc)
 - [О возможности получения бесплатной медицинской помощи](/assets/о-vozmozhnosti-polucheniya-besplatnoj-medicinskoj-pomoshhi.odt)
 - [Политика обработки персональных данных](/assets/pd.odt)
