@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Скидки
-permalink: loyalty
+permalink: loyalty/
 ---
 
 ### С 20.03.2026 г. в ООО «Волга-Дент» действует программа лояльности «Тёплая улыбка»
