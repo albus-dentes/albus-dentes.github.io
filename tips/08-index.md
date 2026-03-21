@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Рекомендации
-permalink: tips/
+permalink: tips
 ---
 ## Памятка пациенту после лечения кариеса
 

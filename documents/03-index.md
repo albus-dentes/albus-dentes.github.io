@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Документы
-permalink: documents/
+permalink: documents
 ---
 - [Лицензия](/assets/lic.pdf)
   - [Выписка из реестра лицензий на 2022](/assets/vypiska.pdf)
