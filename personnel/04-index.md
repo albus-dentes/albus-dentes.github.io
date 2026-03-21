@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Персонал
+permalink: personnel
 ---
 
 # Специалисты, оказывающие услуги

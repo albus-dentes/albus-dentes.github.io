@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Услуги
+permalink: services
 ---
 
 ## Отбеливание
