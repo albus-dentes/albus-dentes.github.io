@@ -27,3 +27,5 @@ permalink: documents
 - [О возможности получения бесплатной медицинской помощи](/assets/о-vozmozhnosti-polucheniya-besplatnoj-medicinskoj-pomoshhi.odt)
 - [Политика обработки персональных данных](/assets/pd.odt)
 - [Положение об обработке персональных данных](/assets/pd-p.odt)
+- [Сводная ведомость СОУТ «Волга-Дент»](/assets/sout.pdf)
+- [Перечень рекомендуемых мероприятий «Волга-Дент»](/assets/per.pdf)
