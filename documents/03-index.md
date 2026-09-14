@@ -15,7 +15,7 @@ permalink: documents
 - [Права и обязанности граждан в сфере охраны здоровья](/assets/prava-i-obyazannosti-grazhdan-v-sfere-oxrany-zdorovya.doc)
 - [Правила поведения пациентов и иных лиц, находящихся в ООО Волга-Дент](/assets/pravila-povedeniya-pacientov.docx)
 - [Сведения для пациентов](/assets/svedeniya-dlya-pacientov.odt)
-  - [Договор на оказание платных медицинских услуг](/assets/dogovor-na-okazanie-platnykh-medicinskikh-uslug.doc)
+  - [Договор на оказание платных медицинских услуг](/assets/dogovor-na-okazanie-platnykh-medicinskikh-uslug.odt)
     - [Рубрикатор клинических рекомендаций](http://cr.minzdrav.gov.ru/)
     - [Стандарты медицинской помощи](http://pravo.gov.ru/?ysclid=llgm4jh7j1427013808)
       - Сроки ожидания предоставления платных медицинских услуг в ООО «Волга- Дент»: приём пациента для оказания платной медицинской услуги может осуществляться в дни и часы приёма, установленные расписанием приёма врачей, в свободное в расписании время, по предварительной записи по указанным телефонам.
